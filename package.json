@@ -1,10 +1,11 @@
 {
   "name": "@julianjohannesen/how-to-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This project is designed to help you learn to use npm.",
   "main": "index.js",
   "repository": {
-    "https://github.com/julianjohannesen/npm-exercises.git"
+    "type" : "git",
+    "url" : "https://github.com/julianjohannesen/npm-exercises.git"
   },
   "scripts": {
     "test": "node test.js"

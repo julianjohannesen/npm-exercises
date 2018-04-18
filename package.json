@@ -1,0 +1,21 @@
+{
+  "name": "@julianjohannesen/how-to-npm",
+  "version": "1.0.0",
+  "description": "This project is designed to help you learn to use npm.",
+  "main": "index.js",
+  "repository": {
+    "https://github.com/julianjohannesen/npm-exercises.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "Julian Johannesen",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
